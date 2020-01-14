@@ -6,3 +6,7 @@ function writeCards(names, name){
   }
   return messages
 }
+
+function countDown(num){
+  let i = num;
+}
